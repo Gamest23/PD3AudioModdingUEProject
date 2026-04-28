@@ -4,10 +4,11 @@ Requirements / Prerequisites
 	- Unreal Engine 4.27
 	- Around 30GB of Storage Space
    
-Required Unreal Plugins:
+Required Unreal Plugins
 
     - Prefabricator
     - LE Extended Standard Library
 
-To build:
-Run PAYDAY3.uproject
+How to build
+
+	- Run PAYDAY3.uproject
